@@ -72,7 +72,4 @@ The visual artist Grazia Tagliente is involved in making «*When above — Alta 
 
 Thanks to:
 
-- Giampiero Rosa, for his knowledge in sea stuff.
-- Stefano Tonetto, for his knowledge in electronics.
-- Roberto Anglani, for his knowledge in data science and machine learning.
-- Barbara Bianco, for her knowledge — an enthusiastic and contagious wisdom — in everything else.
+- Antonio Viesti for his knowledge — an enthusiastic and contagious wisdom — in everything else.+++MS
